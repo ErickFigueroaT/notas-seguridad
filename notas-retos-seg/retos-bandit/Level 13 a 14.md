@@ -164,3 +164,4 @@ Connection to bandit.labs.overthewire.org closed.
 - cat se usa para ver el contenido de un archivo.
 - ls se usa para ver el contenido del directorio.
 - chmod cambia los permisos del archivo.
+- usamos ssh para conectarnos al servidor por medio de la llave.

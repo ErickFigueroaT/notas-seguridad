@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53b4bdb069c6de22",
+            "id": "b6c57590636ae7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 15 a 16.md",
+                "file": "retos-bandit/Level 19 a 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dda7b4258f26963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "941c2dcdaf21381b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrimerParcial/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d366f89fa7fc7d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 20 a 21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 15 a 16.md",
+                "file": "retos-bandit/Level 20 a 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 15 a 16.md",
+                "file": "retos-bandit/Level 20 a 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 15 a 16.md"
+                "file": "retos-bandit/Level 20 a 21.md"
               }
             }
           }
@@ -146,17 +183,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "53b4bdb069c6de22",
+  "active": "d366f89fa7fc7d34",
   "lastOpenFiles": [
+    "PrimerParcial/2019/01-Lets Warm Up.md",
+    "PrimerParcial/Plantilla.md",
+    "retos-bandit/Plantilla.md",
+    "retos-bandit/Level 20 a 21.md",
+    "PrimerParcial/2022",
+    "PrimerParcial/2021",
+    "PrimerParcial/2019",
+    "PrimerParcial",
+    "retos-bandit/Level 19 a 20.md",
+    "retos-bandit/Level 17 a 18.md",
+    "retos-bandit/Level 18 a 19.md",
+    "retos-bandit/Level 16 a 17.md",
     "retos-bandit/Llave 14 a 15.md",
+    "retos-bandit/Level 12 a 13.md",
     "retos-bandit/Level 15 a 16.md",
     "retos-bandit/Level 13 a 14.md",
-    "retos-bandit/Level 12 a 13.md",
     "retos-bandit/Level 11 a 12.md",
     "retos-bandit/Level 10 a 11.md",
     "retos-bandit/Level 8 a 9.md",
-    "retos-bandit/Level 9 a 10.md",
-    "retos-bandit/Level 4 a 5.md",
-    "retos-bandit/Level 6 a 7.md"
+    "retos-bandit/Level 9 a 10.md"
   ]
 }
