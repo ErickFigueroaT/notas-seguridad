@@ -26,6 +26,9 @@ NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 [1]+  Done                    nc -lnvp 3030 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 bandit20@bandit:~$
 
+
+
+
 ```
 
 # Notas Adicionales
