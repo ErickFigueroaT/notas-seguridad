@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50070b5b20a30035",
+            "id": "797f049d728adf26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PrimerParcial/2019/10-mus1c.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -138,8 +142,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50070b5b20a30035",
+  "active": "45fba6079c4edc85",
   "lastOpenFiles": [
+    "PrimerParcial/2019/10-mus1c.md",
+    "PrimerParcial/2019/11-1_wanna_b3_a_r0ck5tar.md",
+    "PrimerParcial/2019/09-Plumbing.md",
+    "PrimerParcial/2019/08-Based.md",
+    "PrimerParcial/2019/07-First Grep.md",
+    "PrimerParcial/2019/06-Bases.md",
+    "PrimerParcial/2019/05-strings it.md",
+    "PrimerParcial/2019/04-whats a net cat.md",
     "retos-bandit/Level 32 a 33.md",
     "retos-bandit/Level 33 a 34.md",
     "retos-bandit/Level 14 a 15.md",
@@ -158,14 +170,6 @@
     "retos-bandit/Level 15 a 16.md",
     "retos-bandit/Level 19 a 20.md",
     "retos-bandit/Level 18 a 19.md",
-    "retos-bandit/Level 17 a 18.md",
-    "retos-bandit/Level 23 a 24.md",
-    "retos-bandit/Level 22 a 23.md",
-    "PrimerParcial/2019/04-whats a net cat.md",
-    "PrimerParcial/2019/03-2Warm.md",
-    "PrimerParcial/2019/02- Warmed Up.md",
-    "PrimerParcial/2019/01-Lets Warm Up.md",
-    "PrimerParcial/Plantilla.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
