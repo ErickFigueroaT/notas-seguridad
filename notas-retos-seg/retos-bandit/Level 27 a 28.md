@@ -1,5 +1,4 @@
 Level 27
-Level 26
 # Objetivo
 There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/repo`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
 

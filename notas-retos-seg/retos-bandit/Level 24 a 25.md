@@ -43,6 +43,6 @@ bandit24@bandit:~$
 ```
 
 # Notas Adicionales
-- echo sirve para dadas en su salida estándar, con un espacio en blanco entre cada una y un carácter "salto de línea" después de la última cadena
+- echo sirve para dadas en su salida estándar, con un espacio en blanco entre cada una y un carácter "salto de línea" después de la última cadena.
 - nc  permite acceder a puertos TCP o UDP de la propia máquina o de otras máquinas remotas.
 - grep nos permite filtrar y eliminar la información inútil que se produce tras ejecutar un comando. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdde071c459ae17a",
+        "id": "c67423a10e2e99d3",
         "type": "tabs",
         "children": [
           {
-            "id": "85aca6ce7923a731",
+            "id": "50070b5b20a30035",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,14 +138,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45fba6079c4edc85",
+  "active": "50070b5b20a30035",
   "lastOpenFiles": [
-    "retos-bandit/Level 27 a 28.md",
-    "retos-bandit/Untitled.md",
-    "retos-bandit/Level 5 a 6.md",
-    "retos-bandit/Level 26 a 27.md",
-    "retos-bandit/Level 25 a 26.md",
+    "retos-bandit/Level 32 a 33.md",
+    "retos-bandit/Level 33 a 34.md",
+    "retos-bandit/Level 14 a 15.md",
+    "retos-bandit/Level 31 a 32.md",
     "retos-bandit/Level 24 a 25.md",
+    "retos-bandit/Level 25 a 26.md",
+    "retos-bandit/Level 26 a 27.md",
+    "retos-bandit/Level 27 a 28.md",
+    "retos-bandit/Level 28 a 29.md",
+    "retos-bandit/Level 30 a 31.md",
+    "retos-bandit/Level 29 a 30.md",
+    "retos-bandit/Level 5 a 6.md",
     "retos-bandit/Level 21 a 22.md",
     "retos-bandit/Level 20 a 21.md",
     "retos-bandit/Level 16 a 17.md",
@@ -160,15 +166,9 @@
     "PrimerParcial/2019/02- Warmed Up.md",
     "PrimerParcial/2019/01-Lets Warm Up.md",
     "PrimerParcial/Plantilla.md",
-    "retos-bandit/Plantilla.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
-    "PrimerParcial",
-    "retos-bandit/Llave 14 a 15.md",
-    "retos-bandit/Level 12 a 13.md",
-    "retos-bandit/Level 13 a 14.md",
-    "retos-bandit/Level 11 a 12.md",
-    "retos-bandit/Level 10 a 11.md"
+    "PrimerParcial"
   ]
 }
