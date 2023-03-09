@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c67423a10e2e99d3",
+        "id": "e6ff85335cd4b2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "797f049d728adf26",
+            "id": "f76757a308eb481d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PrimerParcial/2019/10-mus1c.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -144,7 +140,15 @@
   },
   "active": "45fba6079c4edc85",
   "lastOpenFiles": [
+    "picoCTF2019(web).zip",
+    "picoCTF2019(web)/Client-side-again.md",
+    "picoCTF2019(web)/picobrowser.md",
+    "picoCTF2019(web)/dont-use-client-side.md",
+    "picoCTF2019(web)/where are the robots.md",
+    "picoCTF2019(web)/logon.md",
+    "picoCTF2019(web)/Insp3ct0r.md",
     "PrimerParcial/2019/10-mus1c.md",
+    "picoCTF2019(web)",
     "PrimerParcial/2019/11-1_wanna_b3_a_r0ck5tar.md",
     "PrimerParcial/2019/09-Plumbing.md",
     "PrimerParcial/2019/08-Based.md",
@@ -163,13 +167,6 @@
     "retos-bandit/Level 28 a 29.md",
     "retos-bandit/Level 30 a 31.md",
     "retos-bandit/Level 29 a 30.md",
-    "retos-bandit/Level 5 a 6.md",
-    "retos-bandit/Level 21 a 22.md",
-    "retos-bandit/Level 20 a 21.md",
-    "retos-bandit/Level 16 a 17.md",
-    "retos-bandit/Level 15 a 16.md",
-    "retos-bandit/Level 19 a 20.md",
-    "retos-bandit/Level 18 a 19.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
