@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ff85335cd4b2e1",
+        "id": "e0b6996c10750793",
         "type": "tabs",
         "children": [
           {
-            "id": "f76757a308eb481d",
+            "id": "f356106a5dda1676",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +137,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45fba6079c4edc85",
+  "active": "f356106a5dda1676",
   "lastOpenFiles": [
+    "PrimerParcial/2021/06-  Magikarp Ground Mission.md",
+    "PrimerParcial/2021/05-Tab, Tab, Attack.md",
+    "PrimerParcial/2021/04- Static ain't always noise.md",
+    "PrimerParcial/2021/02- Wave a flag.md",
+    "PrimerParcial/2021/03-  Nice netcat....md",
+    "PrimerParcial/2019/10-mus1c.md",
+    "PrimerParcial/2021/01-Obedient Cat.md",
+    "PrimerParcial/2019/01-Lets Warm Up.md",
     "picoCTF2019(web).zip",
     "picoCTF2019(web)/Client-side-again.md",
     "picoCTF2019(web)/picobrowser.md",
@@ -147,7 +154,6 @@
     "picoCTF2019(web)/where are the robots.md",
     "picoCTF2019(web)/logon.md",
     "picoCTF2019(web)/Insp3ct0r.md",
-    "PrimerParcial/2019/10-mus1c.md",
     "picoCTF2019(web)",
     "PrimerParcial/2019/11-1_wanna_b3_a_r0ck5tar.md",
     "PrimerParcial/2019/09-Plumbing.md",
@@ -161,12 +167,6 @@
     "retos-bandit/Level 14 a 15.md",
     "retos-bandit/Level 31 a 32.md",
     "retos-bandit/Level 24 a 25.md",
-    "retos-bandit/Level 25 a 26.md",
-    "retos-bandit/Level 26 a 27.md",
-    "retos-bandit/Level 27 a 28.md",
-    "retos-bandit/Level 28 a 29.md",
-    "retos-bandit/Level 30 a 31.md",
-    "retos-bandit/Level 29 a 30.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
