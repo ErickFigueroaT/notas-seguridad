@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b6996c10750793",
+        "id": "d3d15effe5034078",
         "type": "tabs",
         "children": [
           {
-            "id": "f356106a5dda1676",
+            "id": "8e9f5c7b6a774afe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF2019(web)/JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF2019(web)/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF2019(web)/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF2019(web)/JaWT Scratchpad.md"
+              }
             }
           }
         ]
@@ -137,8 +145,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f356106a5dda1676",
+  "active": "8e9f5c7b6a774afe",
   "lastOpenFiles": [
+    "picoCTF2019(web)/JaWT Scratchpad.md",
+    "picoCTF2019(web)/Irish-Name-Repo 2.md",
+    "picoCTF2019(web)/Irish-Name-Repo 1.md",
+    "picoCTF2021(web)/Scavenger Hun.md",
+    "picoCTF2019(web)/where are the robots.md",
+    "picoCTF2019(web)/picobrowser.md",
+    "picoCTF2019(web)/logon.md",
+    "picoCTF2019(web)/Insp3ct0r.md",
+    "picoCTF2019(web)/dont-use-client-side.md",
+    "picoCTF2019(web)/Client-side-again.md",
+    "picoCTF2021(web)/Cookies.md",
+    "picoCTF2021(web)/GET aHEAD.md",
+    "picoCTF2021(web)",
     "PrimerParcial/2021/06-  Magikarp Ground Mission.md",
     "PrimerParcial/2021/05-Tab, Tab, Attack.md",
     "PrimerParcial/2021/04- Static ain't always noise.md",
@@ -148,12 +169,6 @@
     "PrimerParcial/2021/01-Obedient Cat.md",
     "PrimerParcial/2019/01-Lets Warm Up.md",
     "picoCTF2019(web).zip",
-    "picoCTF2019(web)/Client-side-again.md",
-    "picoCTF2019(web)/picobrowser.md",
-    "picoCTF2019(web)/dont-use-client-side.md",
-    "picoCTF2019(web)/where are the robots.md",
-    "picoCTF2019(web)/logon.md",
-    "picoCTF2019(web)/Insp3ct0r.md",
     "picoCTF2019(web)",
     "PrimerParcial/2019/11-1_wanna_b3_a_r0ck5tar.md",
     "PrimerParcial/2019/09-Plumbing.md",
@@ -161,12 +176,6 @@
     "PrimerParcial/2019/07-First Grep.md",
     "PrimerParcial/2019/06-Bases.md",
     "PrimerParcial/2019/05-strings it.md",
-    "PrimerParcial/2019/04-whats a net cat.md",
-    "retos-bandit/Level 32 a 33.md",
-    "retos-bandit/Level 33 a 34.md",
-    "retos-bandit/Level 14 a 15.md",
-    "retos-bandit/Level 31 a 32.md",
-    "retos-bandit/Level 24 a 25.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
