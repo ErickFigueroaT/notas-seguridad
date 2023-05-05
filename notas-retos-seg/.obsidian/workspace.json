@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "526e550d6db479a7",
+        "id": "39ef6a1611098811",
         "type": "tabs",
         "children": [
           {
-            "id": "4a8c5b637354e5d7",
+            "id": "44f167e06fec1877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto/waves over lambda.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d600d5f13486c972",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/waves over lambda.md",
+                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/waves over lambda.md",
+                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/waves over lambda.md"
+                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md"
               }
             }
           }
@@ -145,8 +149,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4a8c5b637354e5d7",
+  "active": "45fba6079c4edc85",
   "lastOpenFiles": [
+    "SegundoParcial/Forensic2022/St3g0...md",
+    "PrimerParcial/Plantilla.md",
+    "SegundoParcial/Forensic2022/Redaction gone wrong.md",
+    "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
+    "SegundoParcial/Plantilla.md",
+    "SegundoParcial/Forensic2022/Packets Primer.md",
+    "SegundoParcial/Forensic2022/Lookey here.md",
+    "SegundoParcial/Forensic2022/Enhance!.md",
+    "SegundoParcial/Forensic2022",
+    "SegundoParcial/SQL Direct.md",
+    "SegundoParcial/Secrets.md",
+    "SegundoParcial/Roboto Sans.md",
+    "SegundoParcial/Forensic-2021/information.md",
+    "SegundoParcial/Power Cookie.md",
+    "SegundoParcial/Forensic-2021",
+    "SegundoParcial/Search source.md",
+    "SegundoParcial/Forbidden Paths.md",
+    "SegundoParcial/Local Authority.md",
+    "SegundoParcial/Inspect html.md",
+    "SegundoParcial/Includes.md",
+    "Crypto/waves over lambda.md",
+    "SegundoParcial",
     "picoCTF2023/06-ReadMyCert.md",
     "picoCTF2023/two sum.md",
     "picoCTF2023/Safe Opener 2.md",
@@ -154,34 +180,13 @@
     "picoCTF2023/Permissions.md",
     "picoCTF2023/PcapPoisoning.md",
     "picoCTF2023/01-money-ware.md",
-    "picoCTF2023/MatchTheRegex.md",
     "picoCTF2023/flag.png",
-    "picoCTF2023/chrono.md",
-    "picoCTF2023/09 - findme.md",
-    "picoCTF2023/08-Ready Gladiator 0.md",
-    "picoCTF2023/07-Reverse.md",
-    "picoCTF2023/05-rotation.md",
-    "picoCTF2023/04-hideme.md",
-    "picoCTF2023/03-Rules 2023.md",
-    "picoCTF2023/02-repetitions.md",
     "picoCTF2023",
-    "PrimerParcial/2022/fixme2.py-05.md",
-    "PrimerParcial/2022/fixme1.py-04.md",
-    "PrimerParcial/2022/Runme.py-01.md",
-    "PrimerParcial/2022/PW Crack 3-09.md",
-    "PrimerParcial/2022/PW Crack 2-08.md",
-    "PrimerParcial/2022/PW Crack 1-07.md",
-    "PrimerParcial/2022/Glitch Cat-06.md",
-    "PrimerParcial/2022/Convertme.py-02.md",
-    "PrimerParcial/2022/Codebook-03.md",
-    "Crypto/Tapping.md",
     "Crypto",
     "picoCTF2021(web)",
     "picoCTF2019(web).zip",
     "picoCTF2019(web)",
     "PrimerParcial/2022",
-    "PrimerParcial/2021",
-    "PrimerParcial/2019",
-    "PrimerParcial"
+    "PrimerParcial/2021"
   ]
 }
