@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39ef6a1611098811",
+        "id": "d5be9e7e648c2106",
         "type": "tabs",
         "children": [
           {
-            "id": "44f167e06fec1877",
+            "id": "740e451026a564a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,11 +147,24 @@
   },
   "active": "45fba6079c4edc85",
   "lastOpenFiles": [
+    "reversing/Actividad1",
+    "reversing/asm1.md",
+    "reversing/Actividad3",
+    "SegundoParcial/Plantilla.md",
+    "reversing/Actividad1/Vault-door-4.md",
+    "reversing/Actividad1/vault-door-3.md",
+    "reversing/Actividad3/Safe Opener 2.md",
+    "reversing/Actividad1/vault-door-1.md",
+    "reversing/Actividad1/vault-door-training.md",
+    "README.md",
+    "reversing/Actividad3/reverse_cipher.md",
+    "reversing/Actividad3/Need For Speed.md",
+    "reversing/Actividad3/GDB Test Drive.md",
+    "reversing",
     "SegundoParcial/Forensic2022/St3g0...md",
     "PrimerParcial/Plantilla.md",
     "SegundoParcial/Forensic2022/Redaction gone wrong.md",
     "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
-    "SegundoParcial/Plantilla.md",
     "SegundoParcial/Forensic2022/Packets Primer.md",
     "SegundoParcial/Forensic2022/Lookey here.md",
     "SegundoParcial/Forensic2022/Enhance!.md",
@@ -168,25 +177,12 @@
     "SegundoParcial/Forensic-2021",
     "SegundoParcial/Search source.md",
     "SegundoParcial/Forbidden Paths.md",
-    "SegundoParcial/Local Authority.md",
-    "SegundoParcial/Inspect html.md",
-    "SegundoParcial/Includes.md",
-    "Crypto/waves over lambda.md",
     "SegundoParcial",
-    "picoCTF2023/06-ReadMyCert.md",
-    "picoCTF2023/two sum.md",
-    "picoCTF2023/Safe Opener 2.md",
-    "picoCTF2023/Plantilla.md",
-    "picoCTF2023/Permissions.md",
-    "picoCTF2023/PcapPoisoning.md",
-    "picoCTF2023/01-money-ware.md",
     "picoCTF2023/flag.png",
     "picoCTF2023",
     "Crypto",
     "picoCTF2021(web)",
     "picoCTF2019(web).zip",
-    "picoCTF2019(web)",
-    "PrimerParcial/2022",
-    "PrimerParcial/2021"
+    "picoCTF2019(web)"
   ]
 }
