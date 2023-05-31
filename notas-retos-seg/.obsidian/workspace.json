@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5be9e7e648c2106",
+        "id": "0705eea8e62e262e",
         "type": "tabs",
         "children": [
           {
-            "id": "740e451026a564a0",
+            "id": "ae796db593f478fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TercerParcial/Reversing/Bit-O-Asm-2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TercerParcial/Reversing/Bit-O-Asm-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TercerParcial/Reversing/Bit-O-Asm-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TercerParcial/Reversing/Bit-O-Asm-2.md"
+              }
             }
           }
         ]
@@ -145,12 +153,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45fba6079c4edc85",
+  "active": "ae796db593f478fb",
   "lastOpenFiles": [
+    "TercerParcial/Reversing/Bit-O-Asm-1.md",
+    "TercerParcial/Binary_Explotation/two-sum.md",
+    "TercerParcial/Plantilla.md",
+    "TercerParcial/Binary_Explotation/clutter-overflow.md",
+    "TercerParcial/Binary_Explotation/Picker IV.md",
+    "TercerParcial/Untitled.md",
+    "TercerParcial/Binary_Explotation",
+    "TercerParcial/Reversing/Bit-O-Asm-2.md",
+    "TercerParcial/Reversing/ASCII FTW.md",
+    "TercerParcial/Reversing",
+    "TercerParcial/Crypto/SRA.md",
+    "TercerParcial/Crypto",
+    "TercerParcial/Crypto/Vigenere.md",
+    "TercerParcial/Crypto/transposition-trial.md",
+    "TercerParcial/Crypto/Mr-Worldwide.md",
+    "TercerParcial/Crypto/Flags.md",
+    "SegundoParcial/Plantilla.md",
+    "Crypto/Actividad2/Untitled 2.md",
+    "TercerParcial",
+    "Crypto/Actividad2/Untitled 1.md",
+    "Crypto/Actividad2/rsa pop quiz.md",
+    "Crypto/Actividad2",
+    "Crypto/Actividad1",
     "reversing/Actividad1",
     "reversing/asm1.md",
     "reversing/Actividad3",
-    "SegundoParcial/Plantilla.md",
     "reversing/Actividad1/Vault-door-4.md",
     "reversing/Actividad1/vault-door-3.md",
     "reversing/Actividad3/Safe Opener 2.md",
@@ -159,30 +189,8 @@
     "README.md",
     "reversing/Actividad3/reverse_cipher.md",
     "reversing/Actividad3/Need For Speed.md",
-    "reversing/Actividad3/GDB Test Drive.md",
     "reversing",
-    "SegundoParcial/Forensic2022/St3g0...md",
-    "PrimerParcial/Plantilla.md",
-    "SegundoParcial/Forensic2022/Redaction gone wrong.md",
-    "SegundoParcial/Forensic-2021/Wireshark doo dooo do doo...md",
-    "SegundoParcial/Forensic2022/Packets Primer.md",
-    "SegundoParcial/Forensic2022/Lookey here.md",
-    "SegundoParcial/Forensic2022/Enhance!.md",
     "SegundoParcial/Forensic2022",
-    "SegundoParcial/SQL Direct.md",
-    "SegundoParcial/Secrets.md",
-    "SegundoParcial/Roboto Sans.md",
-    "SegundoParcial/Forensic-2021/information.md",
-    "SegundoParcial/Power Cookie.md",
-    "SegundoParcial/Forensic-2021",
-    "SegundoParcial/Search source.md",
-    "SegundoParcial/Forbidden Paths.md",
-    "SegundoParcial",
-    "picoCTF2023/flag.png",
-    "picoCTF2023",
-    "Crypto",
-    "picoCTF2021(web)",
-    "picoCTF2019(web).zip",
-    "picoCTF2019(web)"
+    "picoCTF2023/flag.png"
   ]
 }
